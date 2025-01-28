@@ -1,6 +1,6 @@
 # Weather App Using Web API and MV Pattern in Swift
 
-<img width="467" alt="Screenshot 2025-01-28 at 6 32 13 PM" src="https://github.com/user-attachments/assets/eb3885da-4728-4e51-9220-430d9f764ad2" />
+<img width="267" alt="Screenshot 2025-01-28 at 6 32 13 PM" src="https://github.com/user-attachments/assets/eb3885da-4728-4e51-9220-430d9f764ad2" />
 
 ## Overview
 
