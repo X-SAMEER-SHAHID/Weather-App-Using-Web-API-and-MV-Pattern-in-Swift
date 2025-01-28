@@ -1,5 +1,7 @@
 # Weather App Using Web API and MV Pattern in Swift
 
+<img width="467" alt="Screenshot 2025-01-28 at 6 32 13 PM" src="https://github.com/user-attachments/assets/eb3885da-4728-4e51-9220-430d9f764ad2" />
+
 ## Overview
 
 The Weather App is a SwiftUI application that allows users to fetch and display weather information based on city names. It utilizes the OpenWeatherMap API to retrieve weather data and follows the Model-View (MV) design pattern for a clean and maintainable code structure.
